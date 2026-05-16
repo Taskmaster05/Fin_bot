@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+langgraph
+langchain
+langchain-community
+langchain-google-genai
+neo4j
+pymupdf
+openpyxl
+pandas
+sentence-transformers
+python-dotenv
+reportlab
+httpx

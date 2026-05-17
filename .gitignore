@@ -7,4 +7,20 @@ __pycache__/
 *.xls
 *.csv
 500209.txt
+checkpoints.db
 *.pdf
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+frontend/.vite/
+frontend/npm-debug.log*
+frontend/yarn-debug.log*
+frontend/yarn-error.log*
+frontend/pnpm-debug.log*
+
+# Editor and OS files
+.vscode/
+.idea/
+.DS_Store

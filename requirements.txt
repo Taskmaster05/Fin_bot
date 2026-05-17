@@ -2,10 +2,13 @@ fastapi
 uvicorn
 langgraph
 langchain
+langchain-core
+langchain-openai
 langchain-community
-langchain-google-genai
+langchain-groq
 neo4j
-pinecone-client
+pinecone
+langgraph-checkpoint-sqlite
 pymupdf
 openpyxl
 pandas

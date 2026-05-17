@@ -4,4 +4,7 @@ __pycache__/
 *.pyc
 /tmp/
 *.xlsx
+*.xls
+*.csv
+500209.txt
 *.pdf

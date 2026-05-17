@@ -1,0 +1,11 @@
+3 PDF outputs:
+
+"Summarise all risks mentioned across the annual report and all 4 quarterly earnings reports"
+"What did management say about growth strategy in the annual report, and did the quarterly results support that?"
+"Write a full analysis of the company's financial health covering profitability, debt, and outlook"
+
+3 Excel outputs:
+
+"Give me a table of revenue, operating profit, net income, and EPS across all 4 quarters"
+"Export the full balance sheet data showing assets, liabilities, and equity across all available years"
+"Show me stock closing price alongside EPS for each quarter side by side"
